@@ -16,8 +16,6 @@ The world is warming, and with that (on top of the obvious issues) comes many so
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
 The solution (if successful) could be used by policymakers to identify areas of the uk where increased temperatures are likely to drive a greater increase in crime, and react to that accordingly. This hopefully could be used whenever policy for funding or strategy of policing is being considered, by those in power. It should be able to predict the number of each class of crime that will occur in an area based on the predicted temperature increase.
 
 ## Data sources and AI methods
