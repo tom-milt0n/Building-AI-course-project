@@ -19,8 +19,10 @@ The world is warming, and with that (on top of the obvious issues) comes many so
 The solution (if successful) could be used by policymakers to identify areas of the uk where increased temperatures are likely to drive a greater increase in crime, and react to that accordingly. This hopefully could be used whenever policy for funding or strategy of policing is being considered, by those in power. It should be able to predict the number of each class of crime that will occur in an area based on the predicted temperature increase.
 
 ## Data sources and AI methods
-The data I am using will come from the office for national statistics crime statistics, for exmaple:
+The data I am using will come from the office for national statistics crime statistics, for example:
 https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingseptember2025
+
+AI techniques used will at least involve a regression model that will need training on a large amount of crime and weather etc data. This will also require optimisation and least error calculation.
 
 ## Challenges
 
