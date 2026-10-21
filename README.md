@@ -30,8 +30,8 @@ This project will likely have a number of limitations, most notably the fact tha
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on?
 This project could be become a fantastic tool to use to combat one of the societal impacts of global warming and maybe could be extremely useful in decreasing the growth of crime in the uk.
+
 To make this project succeed it will need ideas from a range of data analysts to ensure that all variables that could be affecting the model are considered and that it functions as accurately as possible.
 
 
