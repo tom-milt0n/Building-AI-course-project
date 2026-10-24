@@ -7,7 +7,7 @@ Identifying if (and if so, how) weather affects crime in Derbyshire
 
 ## Summary
 
-I am aiming to create a model that will be trained on past crime statistics and weather data and hopefully will be able to model how crime in Derbyshire occurs as the weather changes, with possible links to studying how global warming may affect this.
+I am aiming to create a model that will be trained on past crime statistics and weather data and hopefully will be able to model how crime in Derbyshire occurs as the weather changes, with possible links to studying how global warming may affect this. The final aim is to try to model future crime based on the weather and possibly global warming.
 
 
 ## Background
@@ -27,6 +27,8 @@ AI techniques used will at least involve a regression model that will need train
 ## Challenges
 
 This project will likely have a number of limitations, most notably the fact that crime is very difficult to model as there are so many variables that affect the prevalence of crime in a certain area. There will also need to be a massive amount of data processed and I'm not sure I have the harware for that.
+Another limitation is the fact that the dataset I am using is recorded crime, which is does not represent the full amount of crime committed in Derbyshire, as some crime goes undetected by the police and hence will be missed from the training data.
+Also limited as the crime dataset is recorded by month rather than by day, and so a day to day analysis will not be possible.
 
 ## What next?
 
