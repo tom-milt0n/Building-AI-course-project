@@ -39,4 +39,8 @@ To make this project succeed it will need ideas from a range of data analysts to
 
 ## Acknowledgments
 
-Data from https://data.police.uk/data/ & http://catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb
+Data from 
+https://data.police.uk/data/
+
+Met Office; Hollis, D.; Carlisle, E.; Kendon, M.; Packman, S.; Doherty, A. (2026): HadUK-Grid Gridded Climate Observations on a 12km grid over the UK, v1.3.2.ceda (1836-2025). NERC EDS Centre for Environmental Data Analysis, 23 June 2026. doi:10.5285/d6fe2f491e2f45be95c95fbcbd45c4e3. https://dx.doi.org/10.5285/d6fe2f491e2f45be95c95fbcbd45c4e3
+
